@@ -1,2 +1,3 @@
 # Practice
-For practicing
+
+This repository is for practicing coding.
